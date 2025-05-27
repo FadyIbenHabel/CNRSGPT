@@ -1,0 +1,5 @@
+Flask>=2.3.0
+llama-index>=0.10.36
+huggingface-hub>=0.20.0
+pymongo>=4.5.0
+groq>=0.3.0
